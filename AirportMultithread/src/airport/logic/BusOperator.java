@@ -29,14 +29,10 @@ public class BusOperator {
         return busNumber.incrementAndGet();
     }
 
-    public AtomicInteger getBusNumber() {
-        return busNumber;
-    }
-
-    public static boolean putFamilyOnBus(Family family, BusOperator operator) {
+    public boolean putFamilyOnBus(Family family) {
         String city = family.getTravelTo();
         boolean result = false;
-        List<Bus> allBusesToCity = operator.getBusBase().get(city);
+        List<Bus> allBusesToCity = getBusBase().get(city);
         Bus busOnStation = allBusesToCity.get(allBusesToCity.size() - 1);
 
         //  Put the family on the bus
@@ -44,8 +40,8 @@ public class BusOperator {
             case "ready to go":
                 // Bus with current family go to city and new Bus is coming to station
                 new Thread(busOnStation).start();
-                allBusesToCity.add(Generator.generateBus(city, operator.addBusNumber()));
-                operator.getBusBase().put(city, allBusesToCity);
+                allBusesToCity.add(Generator.generateBus(city, addBusNumber()));
+                getBusBase().put(city, allBusesToCity);
                 result = true;
                 break;
             case "in process":

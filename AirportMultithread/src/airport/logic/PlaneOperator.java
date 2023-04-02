@@ -30,7 +30,7 @@ public class PlaneOperator implements Runnable {
         while (planeFamilies.size() > 0) {
             while (iter.hasNext()) {
                 family = iter.next();
-                if (BusOperator.putFamilyOnBus(family, busOperator)) {
+                if (busOperator.putFamilyOnBus(family)) {
                     iter.remove();
                 }
             }
