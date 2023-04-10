@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AirportMultithread/AirportMultithread.iml" filepath="$PROJECT_DIR$/AirportMultithread/AirportMultithread.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Serialization/Serialization.iml" filepath="$PROJECT_DIR$/Serialization/Serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/airport-multithread-system/airport-multithread-system.iml" filepath="$PROJECT_DIR$/airport-multithread-system/airport-multithread-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/files-average-letterinword-multithread-parallelstream-countsystem/files-average-letterinword-multithread-parallelstream-countsystem.iml" filepath="$PROJECT_DIR$/files-average-letterinword-multithread-parallelstream-countsystem/files-average-letterinword-multithread-parallelstream-countsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serialization/serialization.iml" filepath="$PROJECT_DIR$/serialization/serialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sigma-university-java-projects.iml" filepath="$PROJECT_DIR$/.idea/sigma-university-java-projects.iml" />
     </modules>
   </component>
