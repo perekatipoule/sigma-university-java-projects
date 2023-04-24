@@ -1,0 +1,11 @@
+RANGES OF NUMBERS
+When writing ranges of numbers in text, the word “through” or “to” should be used to connect them.
+
+Example:
+Samples 6 through 10 were reacted in a similar manner but at approximately 100°C.
+
+When the ranges are numbers of several digits, no digits from the 2nd number in the range should be omitted.
+32
+Example:
+1938 through 1942
+[not “1938–42”]

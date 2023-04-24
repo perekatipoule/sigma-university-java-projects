@@ -1,0 +1,20 @@
+medical translation-medical writing-style guide apr 7, 2020
+expressing numbers in text
+ 
+
+prelude
+The rules for writing numbers vary by academic discipline. While numbers are not a special focus in standard prose, they are in technical, scientific, or medical texts. Numbers written as numerals emphasize quantity more clearly than numbers spelled out as words. Overall, however, as the CBS Manual points out,
+
+« guidelines for representing numbers may occasionally collide with the realities of some documents. When common sense or editorial judgment says a guideline is a poor choice for a specific document, follow sense or judgment. […] choose the form that is best suited for your document and follow that form as consistently as is reasonable. »
+
+Having said this, here are the guidelines I generally follow—most of which derive from the CBE Manual.
+
+ 
+
+NUMERALS OR WORDS
+In scientific text, use arabic numerals in preference of words when the number stands for anything that can be counted. By the way, numerals are the symbols used to represent numbers. For example, there are 10 arabic numerals, i.e., 0 to 9.
+
+Examples:
+3 assays
+2 hypotheses
+120 samples

@@ -1,0 +1,6 @@
+A Text File (sometimes Spelled Textfile; An Old Alternative Name Is Flatfile) Is A Kind Of Computer File That Is Structured As A Sequence Of Lines Of Electronic Text. A Text File Exists Stored As Data Within A Computer File System. In Operating Systems Such As Cp/m And Ms-dos, Where The Operating System Does Not Keep Track Of The File Size In Bytes, The End Of A Text File Is Denoted By Placing One Or More Special Characters, Known As An End-of-file (eof) Marker, As Padding After The Last Line In A Text File. On Modern Operating Systems Such As Microsoft Windows And Unix-like Systems, Text Files Do Not Contain Any Special Eof Character, Because File Systems On Those Operating Systems Keep Track Of The File Size In Bytes. Most Text Files Need To Have End-of-line Delimiters, Which Are Done In A Few Different Ways Depending On Operating System. Some Operating Systems With Record-orientated File Systems May Not Use New Line Delimiters And Will Primarily Store Text Files With Lines Separated As Fixed Or Variable Length Records.
+
+
+
+
+
