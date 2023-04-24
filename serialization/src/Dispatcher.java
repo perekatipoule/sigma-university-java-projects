@@ -26,10 +26,11 @@ public class Dispatcher {
                 28, new Boat(27, "Metal")));
         ships.add(new Ship(95, 2003, new Engine("Diesel", 130), 20,
                 15, new Boat(45, "Composite")));
+
         Collections.sort(planes);
         Collections.sort(ships);
-        File planesFile = new File("PLANES");
-        File shipsFile = new File("SHIPS");
+        File planesFile = new File("serialization/resultedFiles/PLANES");
+        File shipsFile = new File("serialization/resultedFiles/SHIPS");
 
         // Printing lists before serialization
         System.out.println("Before serialization:");

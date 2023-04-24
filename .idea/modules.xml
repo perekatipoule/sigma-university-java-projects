@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/airport-multithread-system/airport-multithread-system.iml" filepath="$PROJECT_DIR$/airport-multithread-system/airport-multithread-system.iml" />
-      <module fileurl="file://$PROJECT_DIR$/files-average-letterinword-multithread-parallelstream-countsystem/files-average-letterinword-multithread-parallelstream-countsystem.iml" filepath="$PROJECT_DIR$/files-average-letterinword-multithread-parallelstream-countsystem/files-average-letterinword-multithread-parallelstream-countsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multithread-parallel-file-system/multithread-parallel-file-system.iml" filepath="$PROJECT_DIR$/multithread-parallel-file-system/multithread-parallel-file-system.iml" />
       <module fileurl="file://$PROJECT_DIR$/serialization/serialization.iml" filepath="$PROJECT_DIR$/serialization/serialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sigma-university-java-projects.iml" filepath="$PROJECT_DIR$/.idea/sigma-university-java-projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try-lock-file-system/try-lock-file-system.iml" filepath="$PROJECT_DIR$/try-lock-file-system/try-lock-file-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wait-notify-file-system/wait-notify-file-system.iml" filepath="$PROJECT_DIR$/wait-notify-file-system/wait-notify-file-system.iml" />
     </modules>
   </component>
 </project>
